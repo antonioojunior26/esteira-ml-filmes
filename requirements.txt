@@ -1,0 +1,8 @@
+# Versões testadas: pandas 3.0.6, numpy 2.5.3, scikit-learn 1.9.1,
+# matplotlib 3.11.2, joblib 1.6.0 (Python 3.14)
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.2   # necessário para OneHotEncoder(sparse_output=...)
+matplotlib>=3.7
+joblib>=1.2
+ipykernel>=6.0

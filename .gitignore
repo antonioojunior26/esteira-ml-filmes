@@ -1,0 +1,21 @@
+# Dataset baixado do Kaggle (o notebook recria esta pasta)
+dados/
+*.zip
+
+# Modelo serializado (recriado na execução do notebook)
+*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editores e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
