@@ -73,12 +73,6 @@ Matriz de confusão (linhas = classe real, colunas = prevista):
 
 > Observação: o ano de lançamento é um preditor forte (filmes antigos tendem a ser preto-e-branco), portanto parte do desempenho reflete esse padrão histórico.
 
-## O que não foi enviado para o GitHub e por quê
-
-- `dados/` (~28 MB): é o dataset original; pode ser obtido pelo próprio notebook.
-- `modelo_final.joblib` (~12 MB): artefato binário recriado ao executar a última célula.
-- Arquivos pessoais e de outros trabalhos que estavam na mesma pasta local.
-
 ## Licença e créditos
 
-Dataset: CC0 1.0, cortesia de Daniel Silalahi / Wikidata. Código e notebook: uso acadêmico livre. Se desejar, adicione um arquivo `LICENSE` (por exemplo, MIT) ao repositório.
+Dataset: CC0 1.0, cortesia de Daniel Silalahi / Wikidata. Código e notebook: uso acadêmico livre.
