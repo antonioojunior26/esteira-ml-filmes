@@ -1,8 +1,6 @@
 # Esteira de Machine Learning — Classificação de Filmes (Colorido × Preto-e-Branco)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU-USUARIO/esteira-ml-filmes/blob/main/Esteira_ML_Filmes.ipynb)
-
-> **Antes de publicar:** substitua `SEU-USUARIO` no link do badge pelo seu login do GitHub (e ajuste o nome do repositório se for diferente).
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/antonioojunior26/esteira-ml-filmes/blob/main/Esteira_ML_Filmes.ipynb)
 
 ## Objetivo
 
